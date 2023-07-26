@@ -22,7 +22,3 @@ class Product {
         console.log("id de product");
     }
 }
-
-let nombre = "Brenda";
-
-console.log(`Hola ${nombre}`);
